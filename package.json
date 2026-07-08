@@ -1,0 +1,7 @@
+{
+  "name": "guardrail-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Demo target repo for Guardrail — a backend OpenAPI contract plus a frontend that uses its fields.",
+  "type": "module"
+}
