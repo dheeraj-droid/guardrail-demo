@@ -1,6 +1,6 @@
 # guardrail-demo
 
-A demo target for [Guardrail](https://github.com/dheeraj-droid/Guardrail). This single repo
+A demo target for [Guardrail](https://github.com/dheeraj-droid/Guardrail).This single repo
 plays **both** roles (a monorepo):
 
 - **Backend contract:** [`openapi.json`](openapi.json) — defines a `User` schema with
